@@ -9,7 +9,7 @@ description: " A look at the problematic relationship between Facebook and adver
     <img src = "./laptop.jpg" alt ="Woman using a laptop to browse social media" >
 </p>
 
-In the past few days, there has been a rise in the number of companies boycotting Facebook as a platform for advertising. Last I checked, more than 800 companies have pulled out their money from Facebook. It started out initially as a #StopHateForProfit campaign, to call out Facebook to up its game on content moderation, after Facebook didn't take any action on the post by President Trump stating "... Whent he looting starts, the shooting starts", which many people thought provoked violence. (It does, it felt like a dog whistle). And then many small companies, who are relatively active in social issues, jumped in on the #BoycottFacebook movement. And soon other big companies like Unilever, Coca Cola, Ford followed after.
+In the past few days, there has been a rise in the number of companies boycotting Facebook as a platform for advertising. Last I checked, more than 800 companies have pulled out their money from Facebook. It started out initially as a #StopHateForProfit campaign, to call out Facebook to up its game on content moderation, after Facebook didn't take any action on the post by President Trump stating "... When the looting starts, the shooting starts", which many people thought provoked violence. (It does, it felt like a dog whistle). And then many small companies, who are relatively active in social issues, jumped in on the #BoycottFacebook movement. And soon other big companies like Unilever, Coca Cola, Ford followed after.
 
 <p align="center">
     <img src = "./FB.png" alt =" A bar chart showing estimated spending of Facebook advertisers " >
