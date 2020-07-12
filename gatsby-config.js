@@ -6,7 +6,7 @@ module.exports = {
       summary: `while petting her cats`,
     },
     description: `My personal blog`,
-    siteUrl: `https://catwomaniya.surge.sh`,
+    siteUrl: `https://catwomaniya.io`,
     social: {
       twitter: `dalekNo99`,
     },
