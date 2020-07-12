@@ -1,7 +1,7 @@
 ---
-title: Biuying health insurance - A guide
-date: "2020-06-12"
-description: " What faactors to consider while buying a health insurance "
+title: Buying health insurance - A guide
+date: "2020-07-12"
+description: " What factors to consider while buying a health insurance "
 ---
 <div style="text-align: justify"> 
 
