@@ -1,0 +1,86 @@
+---
+title: Why brands need a better content marketing strategy during Covid-19 pandemic
+date: "2020-09-06"
+description: " What will a post-COVID world look like for marketers? This post delves into predictions and some successful strategies that happened during the pandemic "
+---
+<div style="text-align: justify"> 
+
+<p align="center">
+    <img src = "./3.jpg" alt ="Content preparation strategy" >
+</p>
+
+Content is King. (Damn right, it is!)
+
+And it will be play an important part, for brands to help uplift themselves and survive during these tough times. The world is now forever divided into pre COVID-19 and post COVID-19 narratives. Content marketing is how companies can set themselves up for the long term – pandemic or not.
+
+Companies have reduced their marketing/content creation spend with their operations being hit, which seems like a logical move, because it essentially means putting your focus into more cost-driven activities, while having less than ideal revenue generating numbers. But going into hibernation is the wrong move here.
+
+Things will go back to normal – or some new type of normal. When this happens, brands should have some momentum built up, something that can help them grow and thrive.
+
+## Our daily routines have changed
+
+While each one of us might have a different kind of day routine basis our jobs and responsibility division at home, but somethings are glaringly common amongst all of us :
+
+- Consumption of digital media has increased 
+- Washing dishes has become an everyday task
+- Cooking/Baking activities have increased, for a plethora of reasons. And people are either entering their kitchens for the first time or on their way to become a chef. You know how I know that ? Instagram stories (So, again this circles back to point number one). 
+
+<p align="center">
+    <img src = "./1.gif" alt ="Insatgram stories gif" width="400" height="400">
+</p>
+
+Digital experiences have abruptly replaced in-person experiences. Our content consumption has increased multi-fold and is greater than ever right now. According to recent data, the total minutes on the internet increased to 1466 minutes during April 2020 (a 11% increase from March 2020), as COVID-19 kept people indoors.
+
+The demand is massive, and with more time at hand, content creators are creating way more content than they ever did.
+
+## What companies are doing right
+
+Since the lockdown happened, many brands have taken inspiration from how mankind overcame setbacks such as The Great Depression, oil crisis in 1973 or even the 2007-08 economic recession to reassure consumers that the humankind has the strength and intelligence to emerge at the top of any challenge they face, including COVID-19, while keeping a positive tone as the underlying feeling.
+
+Finding new ways to reach to your customers during an economic crisis, is not new. Being all "the glass is half full", this is the time for companies to break out their thinking hats and turn on innovation. Let's take a step back, to the Great Depression. While many companies were re-evaluating their finances and cutting down on expenses, P&G's marketing team, took a different approach. As many people were staying in homes, the company started sponsoring radio broadcasts - which were relatively new at the time – with a key message, to promote the basic necessity - soap. 
+
+When it was all said and done, P&G came out of the Great Depression in a much better shape than before! (FUN FACT: This also led to the origin of the term “[soap opera](https://www.cincinnati.com/story/news/2017/10/04/our-history-p-g-put-soap-soap-opera/732149001/)"
+
+Once the pandemic in the rear-view mirror, the biggest shift in content marketing is going to see a new emphasis on digital experiences. 
+
+Persistent efforts, consistent communication, frequent reminders - are some crucial ways for companies to engage and connect with customers. Right now, the winning ticket is to create content that is relevant to your business and informative, in a way that helps your potential customer or is entertaining.
+
+For example, in the B2B area , [Moz](https://moz.com/) , started giving away all their courses (except a certification one) at Moz Academy for free. That is some $1500+ worth of courses! And while they are obviously missing out on good revenue in the short term, the long-term impact is much higher.
+
+Content marketing and SEO, work so well together, they both go hand-in-hand. This was a brilliant move by the company to attract marketers across the industry, become familiar with the tools/program, learn skills and build a monumental amount of trust, so that when all of this is done marketer's will know where to turn to when they are looking for SEO software.
+
+In the B2C area, [Cult.fit](cure.fit/cult/livept) , a health and fitness company, launched their LIVE workout classes for free (Update: Launched paid subscription classes during late-may), just days before the lockdown was announced in India. In these workout classes, people could compete with fellow attendees or with their friends, which made for one engaging digital experience. They are also posting regular and engaging content to educate users on their app. The company is putting a considerable amount of resources into helping people stay active, healthy and positive - together. 
+
+## Marketing in a post-covid world
+
+Not to jump forward to the future, but we are at a stage to make some logical hypotheses for what's coming.
+
+- Traditional advertising is going to become all but *gone*. Priority of health & wellness and fear of unemployment lurking around has changed consumer's behaviour. The concept of advertising via physical objects like direct mailers, paper newspapers etc. Can and will become obsolete.
+
+- As I said earlier, more people are consuming content on their devices, especially while streaming Netflix or via social media channels. It's likely for traditional TV advertising to be replaced by a more digital, robust model. 
+
+- User-generated content will see a rise, as the need for people to create connections will increase. A great way for brands to make more engaging content, is to give their customers or their employees, the spotlight, a place where they can be vulnerable and share their stories.
+
+<p align="center">
+    <img src = "./2.gif" alt ="People connected" >
+</p>
+
+- There will a lot of reluctance to get out from homes needlessly. Consumers will have questions about their favourite businesses, restaurants, go-to spots and about new businesses that have sprung up. And most of them will rely on trusty, old Google, to get these answers before actually venturing out.
+
+## Why content marketing works
+
+- There will be a fundamental shift in consumer behaviour and how consumers look at brands. Brands with a purpose and meaning will resonate more with consumers, and in a more effective manner. It's important for brands to communicate who they are and not just what they sell. Content marketing and thought leadership can help in creating that connection.
+
+- While the period of uncertainty is here and will likely stay for some more time, consumers won't have time for generalities and good to know material. They will look for information which could help them in navigating their situation better, and decide better Meaningful content should be build around the question "What's in it for me"
+
+<p align="center">
+    <img src = "./4.gif" alt ="Connect to consumers" width="400" height="400" >
+</p>
+
+- Social listening and community engagement will be at the forefront while developing a marketing strategy. For examples, companies were already hosting quizzes and sharing polls on twitter since a long time, but they have moved on to create mini-events like movie watch-along nights and leveraged the used of other channels like Instagram to increase their reach. Remember, how quick brands went on to create delightful and funny [illustrative content](https://www.adgully.com/momentmarketing-how-brands-are-reacting-to-pubg-ban-in-india-96139.html) after Indian banned PUBG. More of that, please!
+
+- More than anything else, content marketing is meant for success because it meets people where they are. Sure, we’ll likely reach a point where people will go out and about managing their day-to-day activities, but it may be a good long while before we flock back to movie theatres and restaurants. And how will people occupy their time? By consuming content on their devices, more specifically smartphones.
+	
+Who know what uncertainties may arise in the following months. We simply cannot say what will happen in the economy, in coronavirus, in marketing. Although one thing is for sure, content marketing seems like a pretty safe bet to put your money on. 
+
+</div>
