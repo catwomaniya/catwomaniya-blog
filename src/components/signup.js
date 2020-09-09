@@ -2,15 +2,15 @@ import React from 'react';
 import Cat from './images/Cat'
 import './Signup.css';
 
-const CATWOMANIYA_FORM_ID = '812047';
+const CATWOMANIYA_FORM_ID = '1655780';
 
 class Signup extends React.Component {
     render() {
         let form = {
             id: CATWOMANIYA_FORM_ID,
-            title: 'Subscribe to the Newsletter',
-            subTitle: 'Subscribe to get my latest content by email.',
-            buttonText: 'Subscribe',
+            title: 'Want more contents like this?',
+            subTitle: 'I write about sustainability, healthcare and technology.',
+            buttonText: 'Get Updates',
         };
         return (
             <form
@@ -63,22 +63,6 @@ class Signup extends React.Component {
                             <div className="formkit-field">
                                 <input
                                     className="formkit-input"
-                                    aria-label="Your first name"
-                                    name="fields[first_name]"
-                                    placeholder="Your first name"
-                                    type="text"
-                                    style={{
-                                        borderColor: '#403b44',
-                                        borderRadius: '4px',
-                                        color: 'rgb(0, 0, 0)',
-                                        fontWeight: 400,
-                                    }}
-                                    required
-                                />
-                            </div>
-                            <div className="formkit-field">
-                                <input
-                                    className="formkit-input"
                                     name="email_address"
                                     aria-label="Your email address"
                                     placeholder="Your email address"
@@ -105,20 +89,6 @@ class Signup extends React.Component {
                                 <div className="formkit-spinner" />
                                 <span>{form.buttonText}</span>
                             </button>
-                        </div>
-                        <div
-                            data-element="guarantee"
-                            className="formkit-guarantee"
-                            style={{
-                                color: 'var(--textNormal)',
-                                fontSize: '13px',
-                                fontWeight: 400,
-                            }}
-                        >
-                            <p>I won’t send you spam.</p>
-                            <p>
-                                Unsubscribe at <em>any</em> time.
-              </p>
                         </div>
                     </div>
                 </div>

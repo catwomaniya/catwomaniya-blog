@@ -6,7 +6,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 import './index.css'
-import Signup from "../components/signup"
 
 type Data = {
   site: {
@@ -65,9 +64,6 @@ const BlogIndex = ({ data }: PageProps<Data>) => {
           </article>
         )
       })}
-      {/* <aside>
-        <Signup />
-      </aside> */}
     </Layout>
   )
 }

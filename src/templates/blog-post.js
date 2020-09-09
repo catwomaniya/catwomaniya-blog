@@ -1,21 +1,13 @@
 import { graphql, Link } from "gatsby"
 import React from "react"
-import styled from 'styled-components'
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Signup from "../components/signup"
 import { rhythm, scale } from "../utils/typography"
 
-const StyledLink = styled(Link)`
-cursor: pointer;
-text-decoration: none;
-box-shadow: none;
-`
-
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
 
   return (
@@ -25,7 +17,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <article>
-        <StyledLink to="/"><span role="img" aria-label="right">👈&nbsp;</span>Go back to the blog</StyledLink>
+        <Link to="/" style={{ cursor: 'pointer', textDecoration: 'none', boxShadow: 'none' }}><span role="img" aria-label="right">👈&nbsp;</span>Go back to the blog</Link>
         <header>
           <h1
             style={{
@@ -53,7 +45,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
         <footer>
           <Bio />
-          {/* <Signup /> */}
+          <Signup />
         </footer>
       </article>
 
