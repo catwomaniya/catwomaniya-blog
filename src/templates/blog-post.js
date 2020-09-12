@@ -5,9 +5,10 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Signup from "../components/signup"
 import { rhythm, scale } from "../utils/typography"
+import { MDXRenderer } from "gatsby-plugin-mdx"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark
+  const post = data.mdx
   const { previous, next } = pageContext
 
   return (
@@ -16,7 +17,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article>
+      <article style={{textAlign: 'justify'}}>
         <Link to="/" style={{ cursor: 'pointer', textDecoration: 'none', boxShadow: 'none' }}><span role="img" aria-label="right">👈&nbsp;</span>Go back to the blog</Link>
         <header>
           <h1
@@ -37,7 +38,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             {post.frontmatter.date}
           </p>
         </header>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <MDXRenderer>{post.body}</MDXRenderer>
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -88,10 +89,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    mdx(fields: { slug: { eq: $slug } }) {
       id
       excerpt(pruneLength: 160)
-      html
+      body
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
