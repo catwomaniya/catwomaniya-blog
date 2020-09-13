@@ -17,7 +17,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article style={{textAlign: 'justify'}}>
+      <article>
         <Link to="/" style={{ cursor: 'pointer', textDecoration: 'none', boxShadow: 'none' }}><span role="img" aria-label="right">👈&nbsp;</span>Go back to the blog</Link>
         <header>
           <h1
@@ -38,7 +38,11 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             {post.frontmatter.date}
           </p>
         </header>
-        <MDXRenderer>{post.body}</MDXRenderer>
+        <div className="blog-body">
+          <MDXRenderer>
+            {post.body}
+          </MDXRenderer>
+        </div>
         <hr
           style={{
             marginBottom: rhythm(1),
